@@ -16,7 +16,7 @@
 
 ## 下载
 
-最新安装包：[`release/JieShu-v1.5.0.apk`](release/JieShu-v1.5.0.apk)
+最新安装包：**[JieShu-v1.5.0.apk](https://github.com/xuanfeng520/jieshu/releases/download/v1.5.0/JieShu-v1.5.0.apk)**（见 [Releases](https://github.com/xuanfeng520/jieshu/releases)）
 
 覆盖安装即可升级，数据保留。
 
