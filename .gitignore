@@ -1,0 +1,22 @@
+# 构建工具链（JDK / Android SDK），不随仓库分发
+toolchain/
+
+# 签名密钥与密码，绝不提交
+signing/
+*.jks
+*.keystore
+
+# 构建产物
+build/
+dist/
+*.apk
+# 成品安装包例外（供直接下载）
+!release/*.apk
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+release/*.mp4
